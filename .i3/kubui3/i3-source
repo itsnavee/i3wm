@@ -1,0 +1,4 @@
+# i3wm
+deb http://ubuntu.mirror.cambrium.nl/ubuntu/ raring main universe
+deb-src http://ubuntu.mirror.cambrium.nl/ubuntu/ raring main universe
+
